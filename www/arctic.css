@@ -6,6 +6,9 @@ h1 {
     font-family: Creepster, serif;
     font-size: 42px;
 }
+h2 {
+    color: aliceblue;
+}
 h3 {
     color: aliceblue;
     text-align: center;
@@ -17,8 +20,13 @@ h3 {
     margin-right: auto;
     width: 80%;
 }
+section{
+    color: orange;
+    text-align: left;
+}
 body {
     background-color: black;
+    text-align: center;
 }
 audio {
     width: 600px;
